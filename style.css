@@ -1,6 +1,12 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
 #banner {
     font-size: 90px; 
+    font-family: 'Copperplate';
     text-align: center;
-    color: red;
-    background-color: gray;
+    color: #a83248;
+    background-color: #abb4b8;
 }
