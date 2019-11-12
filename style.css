@@ -1,5 +1,6 @@
 #banner {
- font-size: 120px; 
- color: red;
- text-align: center;
+    font-size: 90px; 
+    text-align: center;
+    color: red;
+    background-color: gray;
 }
