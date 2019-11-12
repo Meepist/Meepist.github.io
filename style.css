@@ -25,6 +25,17 @@ body {
 .card-header {
     font-size: 35px; 
     font-family: 'Copperplate';
+    vertical-align: middle;
+    display: inline-block;
+}
+
+.card-header-big {
+    font-size: 50px; 
+    font-family: 'Copperplate';
+    margin-right: -6px;
+    margin-bottom: -3px;
+    vertical-align: bottom;
+    display: inline-block;
 }
 
 .card-content {
