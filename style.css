@@ -1,12 +1,33 @@
 body {
     margin: 0px;
     padding: 0px;
+    background-color: #66595b;
 }
 
 #banner {
     font-size: 90px; 
     font-family: 'Copperplate';
     text-align: center;
-    color: #a83248;
+    color: white;
+    background-color: #363b3d;
+}
+
+.card {
+    border-width: 4px;
+    border-radius: 15px;
+    border-color: black;
+    border-style: solid;
     background-color: #abb4b8;
+    margin: 25px;
+    padding: 5px;
+}
+
+.card-header {
+    font-size: 35px; 
+    font-family: 'Copperplate';
+}
+
+.card-content {
+    font-size: 20px; 
+    font-family: 'Copperplate';
 }
