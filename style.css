@@ -31,3 +31,18 @@ body {
     font-size: 20px; 
     font-family: 'Copperplate';
 }
+
+.card-image-container {
+    text-align: center;
+    margin: 10px;
+}
+
+.card-image {
+    border-width: 4px;
+    border-color: #abb4b8;
+    border-style: solid;
+}
+
+table td, table td * {
+    vertical-align: top;
+}
